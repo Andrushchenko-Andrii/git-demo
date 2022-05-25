@@ -1,2 +1,3 @@
 Hello world!
 Second test line
+New line for git gui
